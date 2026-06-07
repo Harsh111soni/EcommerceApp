@@ -31,7 +31,7 @@
 - In URI paste this url: https://github.com/swapnilbamble1438/EcommerceApp.git
   -> Next
 -  Now in Local Destination
-
+ 
 -  proceed -> Next
 
             Now only select EcommerceApp\EcommerceApp
@@ -262,4 +262,4 @@ url: https://swapnilbamble1438.github.io/EcommerceApplication/
 ### Project Creator: Swapnil Bamble
 
 This Project designed for practice purpose not full implementation
-
+CI/CD Automated Pipeline - Milestone 3
